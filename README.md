@@ -3,9 +3,13 @@ Resume Tagger is an NLP-based machine learning project that automatically analyz
 
 🚀 Features
 -> Extracts and preprocesses resume text.
+
 -> Identifies skills using NLP techniques.
+
 -> Classifies resumes into predefined categories.
+
 -> Supports visualization of tagged results.
+
 -> Easily extendable for new tags or datasets.
 
 🛠️ Tech Stack
@@ -17,4 +21,5 @@ Resume Tagger is an NLP-based machine learning project that automatically analyz
 
 🏗️ Future Improvements
 -> Add support for more resume formats.
+
 -> Improve accuracy with deep learning models (BERT, RoBERTa).
